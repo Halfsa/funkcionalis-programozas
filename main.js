@@ -91,7 +91,7 @@ console.log(Gipszidosebb)
 console.log(nevek)
 
 */
-
+//Feladat
 const list = [];
 const ferfiak = lista.filter((szemely) =>  szemely.nem == "férfi").length;
 const nok = lista.filter((szemely) => szemely.nem == "nő").length;
